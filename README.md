@@ -97,3 +97,6 @@ This script provides a reliable way to **monitor file integrity** in any directo
 
 ---
 
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/12874ed5-7a47-41d6-8446-e23eb942354f" />
